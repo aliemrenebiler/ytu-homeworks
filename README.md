@@ -1,2 +1,3 @@
-# C_Homeworks
-The C language homeworks I made during Bachelor's Degree
+# YTU Homeworks
+
+All homework assignments I completed during my bachelor's degree at Yildiz Technical University.
